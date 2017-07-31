@@ -2,8 +2,10 @@
 
 A work in progress - pull requests gladly accepted.
 
-See also: [mindmaps-scala-java](https://github.com/chrisbeach/mindmaps-scala-java)
-See also: [mindmaps-data-structures](https://github.com/chrisbeach/mindmaps-data-structures)
+See also:
+
+* [mindmaps-scala-java](https://github.com/chrisbeach/mindmaps-scala-java)
+* [mindmaps-data-structures](https://github.com/chrisbeach/mindmaps-data-structures)
 
 
 ### Key
