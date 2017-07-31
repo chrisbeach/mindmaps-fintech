@@ -18,6 +18,10 @@ A work in progress - pull requests gladly accepted.
 
 ## FX
 
+### Products
+
+![FX Products](./FX%20Products.mindnode/QuickLook/Preview.jpg)
+
 ### Key Technical Challenges
 
 * 24/7 markets. **Zero-downtime**: release management, hot-deployment, monitoring
